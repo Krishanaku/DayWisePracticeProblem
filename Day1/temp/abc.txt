@@ -1,0 +1,2 @@
+Mkdir Cannot create directory new permission denied
+Simply log in as super user “su” and use “chmod 777” to set the directory permissions of where you wish the rational directory to be created. Once done, you can re-enter the original directory again and the install will continue using the same directory.
