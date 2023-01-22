@@ -1,0 +1,11 @@
+ran1=$((10+RANDOM%90))
+ran2=$((10+RANDOM%90))
+ran3=$((10+RANDOM%90))
+ran4=$((10+RANDOM%90))
+ran5=$((10+RANDOM%90))
+sum= $(($ran1 + $ran2 + $ran3+ $ran4 + $ran5))
+echo "SUM Of 5 Random Number:"$sum
+avg=$(($sum / 5))
+echo "AVG of 5Random Number:"$avg
+
+

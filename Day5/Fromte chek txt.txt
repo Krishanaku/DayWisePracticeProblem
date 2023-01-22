@@ -1,0 +1,29 @@
+1. Camel Case:
+    Ex.
+    myPhoneNumber
+    WHEN: Variables, Function names
+2. Pascal Case:
+    MyPhoneNumber
+    When: Project, Class, Interface, enum
+
+3. All small
+        my_phone_number
+        When: package name, java keywords
+
+        instanceof, class, enum, interface, inherit
+
+4. All Caps (Snake case)
+        MY_PHONE_NUMBER
+
+        When: Constants(final, enum values)
+
+
+
+Note for workshop.....................
+
+1) Everyone once join the workshop trun on your camera.
+2) Mandatory to join via laptop only.
+3) Mike and camera should be work properly.
+4) Sit in a proper place where no distrubance and light is properly.
+5) All are presenting the screen make sure you all click on the your entire screen.
+6) In the next window you all need to be open your daily wise assignments in different tabs while taking the review if you are opening the same will not be consider.

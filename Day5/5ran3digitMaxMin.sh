@@ -1,0 +1,5 @@
+ran1=$((100+RANDOM%900))
+ran2=$((100+RANDOM%900))
+ran3=$((100+RANDOM%900))
+ran4=$((100+RANDOM%900))
+ran5=$((100+RANDOM%900))
