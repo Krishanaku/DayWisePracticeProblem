@@ -9,5 +9,5 @@ do
 		rm -r $folderName;
 	fi
 	mkdir $folderName;
-	cp $files $folderName/$files;
+	mv $files $folderName/$files;
 done
